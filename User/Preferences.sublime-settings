@@ -4,6 +4,8 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
+		"SASS Build",
+		"SCSS Compiler",
 		"Vintage"
 	],
 	"line_padding_bottom": 3,
