@@ -1,6 +1,7 @@
 {
 	"caret_extra_width": 2,
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
 	"font_size": 13,
 	"ignored_packages":
 	[
